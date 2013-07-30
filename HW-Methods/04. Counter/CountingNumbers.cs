@@ -2,22 +2,24 @@
 // Write a test program to check if the method is working correctly.
 
 using System;
-
-class CountingNumbers
+namespace Counter
 {
-    private static int CountNumberinArray(int number,int[] array)
+    public class CountingNumbers
     {
-        int count = 0;
-        for (int i = 0; i < array.Length; i++)
+        public static int CountNumberinArray(int number, int[] array)
         {
-          if (array[i] == number) count++;  
+            int count = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] == number) count++;
+            }
+            return count;
         }
-        return count;
-    }
-    static void Main()
-    {
-        int[] numbers = new int[] { 1, 2, 3, 4, 4, 4, 2, 1, 4, 4, 88 };
-        int countFromMethod = CountNumberinArray(4, numbers);
-
+        static void Main()
+        {
+            int[] numbers = new int[] { 1, 2, 3, 4, 4, 4, 2, 1, 4, 4, 88 };
+            int countFromMethod = CountNumberinArray(4, numbers);
+            // ckeck the unit test class for the tests
+        }
     }
 }

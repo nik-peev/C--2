@@ -3,3 +3,9 @@ C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\ConsoleApplica
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\git\C--2\HW-Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\git\C--2\HW-Methods\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\git\C--2\HW-Methods\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\git\C--2\HW-Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\git\C--2\HW-Methods\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\git\C--2\HW-Methods\ConsoleApplication2\obj\Debug\01. HelloWorld.csprojResolveAssemblyReference.cache

@@ -1,1 +1,7 @@
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\04. Counter\bin\Debug\_04.Counter.exe.config
+D:\git\C--2\HW-Methods\04. Counter\bin\Debug\_04.Counter.exe.config
+D:\git\C--2\HW-Methods\04. Counter\bin\Debug\_04.Counter.exe
+D:\git\C--2\HW-Methods\04. Counter\bin\Debug\_04.Counter.pdb
+D:\git\C--2\HW-Methods\04. Counter\obj\Debug\04. Counter.csprojResolveAssemblyReference.cache
+D:\git\C--2\HW-Methods\04. Counter\obj\Debug\_04.Counter.exe
+D:\git\C--2\HW-Methods\04. Counter\obj\Debug\_04.Counter.pdb

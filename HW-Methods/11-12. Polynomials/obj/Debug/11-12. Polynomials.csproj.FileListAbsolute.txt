@@ -1,0 +1,5 @@
+D:\git\C--2\HW-Methods\11-12. Polynomials\bin\Debug\_11_12.Polynomials.exe.config
+D:\git\C--2\HW-Methods\11-12. Polynomials\bin\Debug\_11_12.Polynomials.exe
+D:\git\C--2\HW-Methods\11-12. Polynomials\bin\Debug\_11_12.Polynomials.pdb
+D:\git\C--2\HW-Methods\11-12. Polynomials\obj\Debug\_11_12.Polynomials.exe
+D:\git\C--2\HW-Methods\11-12. Polynomials\obj\Debug\_11_12.Polynomials.pdb

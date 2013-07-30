@@ -4,3 +4,9 @@ C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\02. GetMax\bin
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\02. GetMax\obj\Debug\02. GetMax.csprojResolveAssemblyReference.cache
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\02. GetMax\obj\Debug\_02.GetMax.exe
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\02. GetMax\obj\Debug\_02.GetMax.pdb
+D:\git\C--2\HW-Methods\02. GetMax\bin\Debug\_02.GetMax.exe.config
+D:\git\C--2\HW-Methods\02. GetMax\bin\Debug\_02.GetMax.exe
+D:\git\C--2\HW-Methods\02. GetMax\bin\Debug\_02.GetMax.pdb
+D:\git\C--2\HW-Methods\02. GetMax\obj\Debug\02. GetMax.csprojResolveAssemblyReference.cache
+D:\git\C--2\HW-Methods\02. GetMax\obj\Debug\_02.GetMax.exe
+D:\git\C--2\HW-Methods\02. GetMax\obj\Debug\_02.GetMax.pdb

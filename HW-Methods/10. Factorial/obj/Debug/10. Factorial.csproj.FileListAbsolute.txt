@@ -1,0 +1,8 @@
+D:\git\C--2\HW-Methods\10. Factorial\bin\Debug\_10.Factorial.exe.config
+D:\git\C--2\HW-Methods\10. Factorial\bin\Debug\_10.Factorial.exe
+D:\git\C--2\HW-Methods\10. Factorial\bin\Debug\_10.Factorial.pdb
+D:\git\C--2\HW-Methods\10. Factorial\bin\Debug\_08.SumOfBigIntegers.exe
+D:\git\C--2\HW-Methods\10. Factorial\bin\Debug\_08.SumOfBigIntegers.pdb
+D:\git\C--2\HW-Methods\10. Factorial\obj\Debug\10. Factorial.csprojResolveAssemblyReference.cache
+D:\git\C--2\HW-Methods\10. Factorial\obj\Debug\_10.Factorial.exe
+D:\git\C--2\HW-Methods\10. Factorial\obj\Debug\_10.Factorial.pdb

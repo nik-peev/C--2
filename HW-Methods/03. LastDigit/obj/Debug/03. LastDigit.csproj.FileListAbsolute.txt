@@ -3,3 +3,8 @@ C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\03. LastDigit\
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\03. LastDigit\bin\Debug\_03.LastDigit.pdb
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\03. LastDigit\obj\Debug\_03.LastDigit.exe
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\03. LastDigit\obj\Debug\_03.LastDigit.pdb
+D:\git\C--2\HW-Methods\03. LastDigit\bin\Debug\_03.LastDigit.exe.config
+D:\git\C--2\HW-Methods\03. LastDigit\bin\Debug\_03.LastDigit.exe
+D:\git\C--2\HW-Methods\03. LastDigit\bin\Debug\_03.LastDigit.pdb
+D:\git\C--2\HW-Methods\03. LastDigit\obj\Debug\_03.LastDigit.exe
+D:\git\C--2\HW-Methods\03. LastDigit\obj\Debug\_03.LastDigit.pdb

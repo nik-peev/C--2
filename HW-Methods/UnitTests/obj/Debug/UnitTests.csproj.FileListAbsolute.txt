@@ -1,0 +1,7 @@
+D:\git\C--2\HW-Methods\UnitTests\bin\Debug\UnitTests.dll
+D:\git\C--2\HW-Methods\UnitTests\bin\Debug\UnitTests.pdb
+D:\git\C--2\HW-Methods\UnitTests\bin\Debug\_04.Counter.exe
+D:\git\C--2\HW-Methods\UnitTests\bin\Debug\_04.Counter.pdb
+D:\git\C--2\HW-Methods\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\git\C--2\HW-Methods\UnitTests\obj\Debug\UnitTests.dll
+D:\git\C--2\HW-Methods\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,5 @@
+D:\git\C--2\HW-Methods\13. VariousTasks\bin\Debug\_13.VariousTasks.exe.config
+D:\git\C--2\HW-Methods\13. VariousTasks\bin\Debug\_13.VariousTasks.exe
+D:\git\C--2\HW-Methods\13. VariousTasks\bin\Debug\_13.VariousTasks.pdb
+D:\git\C--2\HW-Methods\13. VariousTasks\obj\Debug\_13.VariousTasks.exe
+D:\git\C--2\HW-Methods\13. VariousTasks\obj\Debug\_13.VariousTasks.pdb

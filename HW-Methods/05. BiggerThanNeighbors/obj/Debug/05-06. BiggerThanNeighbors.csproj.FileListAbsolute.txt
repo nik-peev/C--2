@@ -3,3 +3,8 @@ C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\05. BiggerThan
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\05. BiggerThanNeighbors\bin\Debug\_05.BiggerThanNeighbors.pdb
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\05. BiggerThanNeighbors\obj\Debug\_05.BiggerThanNeighbors.exe
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\05. BiggerThanNeighbors\obj\Debug\_05.BiggerThanNeighbors.pdb
+D:\git\C--2\HW-Methods\05. BiggerThanNeighbors\bin\Debug\_05.BiggerThanNeighbors.exe.config
+D:\git\C--2\HW-Methods\05. BiggerThanNeighbors\bin\Debug\_05.BiggerThanNeighbors.exe
+D:\git\C--2\HW-Methods\05. BiggerThanNeighbors\bin\Debug\_05.BiggerThanNeighbors.pdb
+D:\git\C--2\HW-Methods\05. BiggerThanNeighbors\obj\Debug\_05.BiggerThanNeighbors.exe
+D:\git\C--2\HW-Methods\05. BiggerThanNeighbors\obj\Debug\_05.BiggerThanNeighbors.pdb

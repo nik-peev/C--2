@@ -1,0 +1,6 @@
+D:\git\C--2\HW-Methods\09. Sorting\bin\Debug\_09.Sorting.exe.config
+D:\git\C--2\HW-Methods\09. Sorting\bin\Debug\_09.Sorting.exe
+D:\git\C--2\HW-Methods\09. Sorting\bin\Debug\_09.Sorting.pdb
+D:\git\C--2\HW-Methods\09. Sorting\obj\Debug\09. Sorting.csprojResolveAssemblyReference.cache
+D:\git\C--2\HW-Methods\09. Sorting\obj\Debug\_09.Sorting.exe
+D:\git\C--2\HW-Methods\09. Sorting\obj\Debug\_09.Sorting.pdb

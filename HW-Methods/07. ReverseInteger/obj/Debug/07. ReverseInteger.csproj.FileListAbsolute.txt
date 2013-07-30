@@ -3,3 +3,8 @@ C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\07. ReverseInt
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\07. ReverseInteger\bin\Debug\_07.ReverseInteger.pdb
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\07. ReverseInteger\obj\Debug\_07.ReverseInteger.exe
 C:\Users\Nikolay\Documents\Visual Studio 2012\Projects\HW-Methods\07. ReverseInteger\obj\Debug\_07.ReverseInteger.pdb
+D:\git\C--2\HW-Methods\07. ReverseInteger\bin\Debug\_07.ReverseInteger.exe.config
+D:\git\C--2\HW-Methods\07. ReverseInteger\bin\Debug\_07.ReverseInteger.exe
+D:\git\C--2\HW-Methods\07. ReverseInteger\bin\Debug\_07.ReverseInteger.pdb
+D:\git\C--2\HW-Methods\07. ReverseInteger\obj\Debug\_07.ReverseInteger.exe
+D:\git\C--2\HW-Methods\07. ReverseInteger\obj\Debug\_07.ReverseInteger.pdb

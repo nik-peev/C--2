@@ -1,0 +1,8 @@
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\bin\Debug\_9.FloatingPointBinary.exe.config
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\bin\Debug\_9.FloatingPointBinary.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\bin\Debug\_9.FloatingPointBinary.pdb
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\bin\Debug\ConsoleApplication1.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\bin\Debug\ConsoleApplication1.pdb
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\obj\Debug\9. FloatingPointBinary.csprojResolveAssemblyReference.cache
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\obj\Debug\_9.FloatingPointBinary.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\9. FloatingPointBinary\obj\Debug\_9.FloatingPointBinary.pdb

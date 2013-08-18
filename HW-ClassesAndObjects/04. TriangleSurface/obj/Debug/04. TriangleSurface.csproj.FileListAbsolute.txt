@@ -1,0 +1,5 @@
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe.config
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.exe
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\04. TriangleSurface\bin\Debug\_04.TriangleSurface.pdb
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\04. TriangleSurface\obj\Debug\_04.TriangleSurface.exe
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\04. TriangleSurface\obj\Debug\_04.TriangleSurface.pdb

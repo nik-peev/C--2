@@ -1,0 +1,8 @@
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\bin\Debug\_8.SignedShortBinary.exe.config
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\bin\Debug\_8.SignedShortBinary.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\bin\Debug\_8.SignedShortBinary.pdb
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\bin\Debug\ConsoleApplication1.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\bin\Debug\ConsoleApplication1.pdb
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\obj\Debug\8. SignedShortBinary.csprojResolveAssemblyReference.cache
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\obj\Debug\_8.SignedShortBinary.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\8. SignedShortBinary\obj\Debug\_8.SignedShortBinary.pdb

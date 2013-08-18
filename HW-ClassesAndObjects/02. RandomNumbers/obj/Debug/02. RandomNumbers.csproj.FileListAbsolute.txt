@@ -1,0 +1,5 @@
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\02. RandomNumbers\bin\Debug\_02.RandomNumbers.exe.config
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\02. RandomNumbers\bin\Debug\_02.RandomNumbers.exe
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\02. RandomNumbers\bin\Debug\_02.RandomNumbers.pdb
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\02. RandomNumbers\obj\Debug\_02.RandomNumbers.exe
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\02. RandomNumbers\obj\Debug\_02.RandomNumbers.pdb

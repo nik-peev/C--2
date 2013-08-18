@@ -1,0 +1,5 @@
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\5-6. DirectConversion\bin\Debug\_5_6.DirectConversion.exe.config
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\5-6. DirectConversion\bin\Debug\_5_6.DirectConversion.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\5-6. DirectConversion\bin\Debug\_5_6.DirectConversion.pdb
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\5-6. DirectConversion\obj\Debug\_5_6.DirectConversion.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\5-6. DirectConversion\obj\Debug\_5_6.DirectConversion.pdb

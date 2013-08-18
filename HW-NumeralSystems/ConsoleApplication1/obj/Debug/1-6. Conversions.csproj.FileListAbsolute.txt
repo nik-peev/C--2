@@ -1,0 +1,6 @@
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\ConsoleApplication1\obj\Debug\1-6. Conversions.csprojResolveAssemblyReference.cache
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\Users\Developer\Documents\Visual Studio 2012\Projects\HW-NumeralSystems\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

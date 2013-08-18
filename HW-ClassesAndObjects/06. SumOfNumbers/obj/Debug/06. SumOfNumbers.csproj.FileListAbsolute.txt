@@ -1,0 +1,5 @@
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\06. SumOfNumbers\bin\Debug\_06.SumOfNumbers.exe.config
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\06. SumOfNumbers\bin\Debug\_06.SumOfNumbers.exe
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\06. SumOfNumbers\bin\Debug\_06.SumOfNumbers.pdb
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\06. SumOfNumbers\obj\Debug\_06.SumOfNumbers.exe
+c:\users\developer\documents\visual studio 2012\Projects\HW-ClassesAndObjects\06. SumOfNumbers\obj\Debug\_06.SumOfNumbers.pdb
